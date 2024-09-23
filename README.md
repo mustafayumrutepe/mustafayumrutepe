@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mustafayumrutepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafayumrutepe" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mustafayumrutepe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafayumrutepe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mustafayumrutepe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCi4x%2F6nBT5C2ACqqNSRzYA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafayumrutepe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@YUMRUTEPE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mustafayumrutepe" height="30" width="40" /></a>
 <a href="https://discord.gg/#0430" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0430" height="30" width="40" /></a>
 </p>
 
