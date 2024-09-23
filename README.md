@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mustafa Yumrutepe</h1>
-<h3 align="center">Quality-focused QA with a passion for testing excellence.</h3>
+<h3 align="center">QA Tester | Passionate about Software Quality and Automation</h3>
 
 
 - 🔭 I’m currently working on [Well Tra](https://github.com/mustafayumrutepe/WellTra.git)
