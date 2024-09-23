@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Yumrutepe</h1>
 <h3 align="center">Quality-focused QA with a passion for testing excellence.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafayumrutepe&label=Profile%20views&color=0e75b6&style=flat" alt="mustafayumrutepe" /> </p>
 
 - 🔭 I’m currently working on [Well Tra](https://github.com/mustafayumrutepe/WellTra.git)
 
@@ -34,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafayumrutepe&show_icons=true&locale=en" alt="mustafayumrutepe" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafayumrutepe&" alt="mustafayumrutepe" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafayumrutepe&label=Profile%20views&color=0e75b6&style=flat" alt="mustafayumrutepe" /> </p>
